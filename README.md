@@ -10,6 +10,8 @@ The final report includes each of the following:
 
 * Total Number of Players
 
+![Fantasy](Images/total_players.png)
+
 ### Purchasing Analysis (Total)
 
 * Number of Unique Items
@@ -17,50 +19,59 @@ The final report includes each of the following:
 * Total Number of Purchases
 * Total Revenue
 
+![Fantasy](Images/purchasing_analysis.png)
+
 ### Gender Demographics
 
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
-### Purchasing Analysis (Gender)
+![Fantasy](Images/gender.png)
 
-* The below each broken by gender
+### Purchasing Analysis (Gender)
+The below each broken by gender:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
-### Age Demographics
+![Fantasy](Images/purchasing_gender.png)
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+### Age Demographics
+The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.):
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
-### Top Spenders
+![Fantasy](Images/purchasing_age.png)
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+### Top Spenders
+Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   * SN
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
 
-### Most Popular Items
+![Fantasy](Images/top_spenders.png)
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
+### Most Popular Items
+Identify the 5 most popular items by purchase count, then list (in a table):
   * Item ID
   * Item Name
   * Purchase Count
   * Item Price
   * Total Purchase Value
+  
+![Fantasy](Images/most_populr_item.png)
 
 ### Most Profitable Items
-
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+Identify the 5 most profitable items by total purchase value, then list (in a table):
   * Item ID
   * Item Name
   * Purchase Count
   * Item Price
   * Total Purchase Value
+ 
+![Fantasy](Images/most_profit.png)
